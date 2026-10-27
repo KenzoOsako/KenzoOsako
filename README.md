@@ -1,20 +1,24 @@
 # Kenzo Osako
 
-Information Systems student at **UNICAMP**, interested in software engineering, data and applied AI.
+Information Systems at **UNICAMP** · **Software engineering, data and applied AI**.
 
-I build applications that connect interfaces, APIs and data. I am developing my work around clear architecture, reproducible setup and explicit technical limitations.
+I build interfaces, APIs and data workflows, with a focus on reproducible setup, tests and documented technical limitations.
 
 ## Selected projects
 
-| Project | What it explores | Main technologies |
+| Project | Problem and scope | Technologies |
 | --- | --- | --- |
-| [Mimo](https://github.com/KenzoOsako/hackathon-ifood-semcomp) | Team hackathon prototype for planning shopping occasions through voice and text, with MCP adapters and a versioned local bag. No purchase is submitted. | Next.js, TypeScript, LangChain, MCP, OAuth |
-| [Juventude em Ação](https://github.com/KenzoOsako/site-mensageiros-da-cruz-IHC-II) | Community activities, participation, tasks and material contributions. An academic project with a real community context. | Next.js, TypeScript, PostgreSQL, Supabase |
-| [Radar B3](https://github.com/KenzoOsako/SIstema-Consultor-Investimento-IA) | Market data, alerts and an AI-assisted investment interface. An experimental application, not investment advice. | Python, FastAPI, React, SQLite |
-| [Delta](https://github.com/KenzoOsako/Sistema-IA-Consultora-De-Relatorios) | A conversational interface for business reports. Supabase authentication and regression checks are under review. | Python, FastAPI, Next.js, Supabase |
-| [Profit website](https://github.com/Profit-LTDA/site-profit) | Institutional website developed as a team project. | React, TypeScript, Vite |
+| [Juventude em Ação](https://github.com/KenzoOsako/site-mensageiros-da-cruz-IHC-II) | Organizing community activities, participation, tasks and material contributions. An academic project with a real community context and a separate in-memory demonstration. | Next.js, TypeScript, PostgreSQL, Supabase |
+| [Hackathon iFood — FoodPilot](https://github.com/KenzoOsako/hackathon-ifood-semcomp) | Team prototype for local shopping proposals. MCP integration is simulated; it does not place orders. Voice, OAuth and live integrations must not be inferred from the product proposal. | Next.js, TypeScript, MCP contracts |
+| [Radar B3](https://github.com/KenzoOsako/SIstema-Consultor-Investimento-IA) | Market data, alerts and an AI-assisted investment interface. Experimental and educational; not investment advice. | Python, FastAPI, React, SQLite |
+| [Delta](https://github.com/KenzoOsako/Sistema-IA-Consultora-De-Relatorios) | A conversational interface for reports based on Google Sheets. Check the default branch and open pull requests for the current authentication and validation status. | Python, FastAPI, Next.js, Vertex AI |
+| [FlyAI](https://github.com/KenzoOsako/Sistema-passagem-aerea) | A flight-search and price-alert prototype with a conversational interface. External services require the operator's own configuration. | Node.js, Express, React, SQLite |
 
-These repositories have different maturity levels. Check their documentation and open pull requests for setup, current limitations and the distinction between implemented features and prototypes. The Profit website is an organization project; its authorship is shared with the team.
+These projects have different maturity levels. Their documentation distinguishes implemented behavior, synthetic demonstrations, planned integrations and remaining operational work. A public repository is not a claim of production readiness.
+
+## Team work
+
+[Profit website](https://github.com/Profit-LTDA/site-profit) — institutional website developed as a team project with React, TypeScript and Vite. Authorship is shared; see repository history for individual contributions.
 
 ## Technical interests
 
